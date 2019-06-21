@@ -10,8 +10,10 @@ Mentorship portal  is a part of ERP system of [Sir Padampat Singhania University
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## Tip for use
-Add PHPMailer at the root of the project for using SMTP
+## How to Use
+* Add PHPMailer to mentorship folder
+* place the mentorship folder in xampp/htdocs/ and start the server.
+* import the database(masterbase.sql) into xampp server
 
 
 ## Technology Used
